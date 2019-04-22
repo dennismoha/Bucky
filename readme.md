@@ -16,7 +16,7 @@ also all passport modules have been added:
 
 
 
-It includes the following :
+It includes the following:
 var express = require ('express');
 var app = express();
 var bodyParser = require("body-parser");
